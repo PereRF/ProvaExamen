@@ -71,8 +71,6 @@ public class Planeta
 
             return 0;
         }
-        //ACABAR
-        
     }
 
 
